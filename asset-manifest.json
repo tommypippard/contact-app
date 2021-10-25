@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact-appl/static/css/main.a1f3ed8b.chunk.css",
+    "main.js": "/contact-appl/static/js/main.0e7c58f1.chunk.js",
+    "main.js.map": "/contact-appl/static/js/main.0e7c58f1.chunk.js.map",
+    "runtime-main.js": "/contact-appl/static/js/runtime-main.0ce24a2e.js",
+    "runtime-main.js.map": "/contact-appl/static/js/runtime-main.0ce24a2e.js.map",
+    "static/js/2.d7544e4d.chunk.js": "/contact-appl/static/js/2.d7544e4d.chunk.js",
+    "static/js/2.d7544e4d.chunk.js.map": "/contact-appl/static/js/2.d7544e4d.chunk.js.map",
+    "index.html": "/contact-appl/index.html",
+    "static/css/main.a1f3ed8b.chunk.css.map": "/contact-appl/static/css/main.a1f3ed8b.chunk.css.map",
+    "static/js/2.d7544e4d.chunk.js.LICENSE.txt": "/contact-appl/static/js/2.d7544e4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce24a2e.js",
+    "static/js/2.d7544e4d.chunk.js",
+    "static/css/main.a1f3ed8b.chunk.css",
+    "static/js/main.0e7c58f1.chunk.js"
+  ]
+}
