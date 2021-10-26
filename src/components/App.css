@@ -1,0 +1,143 @@
+body {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background: #4e54c8;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.header-container {
+  width: 60%;
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  height: 10%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  border-radius: 30px 30px 30px 30px;
+}
+
+.header-title {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1em;
+  color: white;
+}
+
+.wrapper {
+  width: 60%;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.add-contact {
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  width: 50%;
+  display: inline-block;
+  list-style: none;
+  margin-right: 5%;
+  height: 200px;
+  max-height: 200px;
+}
+
+h2 {
+  color: white;
+  padding-left: 20px;
+  margin-bottom: 5px;
+}
+
+.contact-form {
+  color: white;
+  padding-left: 20px;
+}
+
+.field {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+input {
+  border: none;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.contact-button {
+  background-color: black;
+  border: none;
+  padding: 5px 20px 5px 20px;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.contact-button:hover {
+  background-color:#4e54c8;
+}
+
+.celled-list {
+  background: rgba( 255, 255, 255, 0.25 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 4px );
+  -webkit-backdrop-filter: blur( 4px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+  display: inline-block;
+  width: 50%;
+}
+
+.item {
+  padding: 2%;
+  display: flex;
+}
+
+.content {
+  padding: 2%;
+  display: list-item;
+  list-style: none;
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.header {
+  color: white;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.email {
+  color: white;
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+.delete-contact {
+  width: 110px;
+  background-color: black;
+  border: none;
+  padding: 5px 5px 5px 5px;
+  color: white;
+  font-size: 10px;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.delete-contact:hover {
+  background-color:#4e54c8;
+}
